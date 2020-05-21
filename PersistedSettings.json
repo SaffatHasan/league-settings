@@ -421,7 +421,7 @@
                         },
                         {
                             "name": "ShowAllChannelChat",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowAllChannelChatSpectator",
@@ -429,7 +429,7 @@
                         },
                         {
                             "name": "ShowAlliedChat",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowAttackRadius",
@@ -571,7 +571,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.1"
+                            "value": "0.1000"
                         },
                         {
                             "name": "MusicMute",
@@ -1243,6 +1243,10 @@
                         {
                             "name": "evtOnUIMouse3",
                             "value": "[Button 3]"
+                        },
+                        {
+                            "name": "evtToggleDeathRecapShowcase",
+                            "value": "[n]"
                         },
                         {
                             "name": "evtToggleFPSAndLatency",
